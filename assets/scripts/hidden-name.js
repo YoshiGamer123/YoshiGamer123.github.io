@@ -1,7 +1,8 @@
 const names = [
-    ["Clever | Connect every student to a world of learning", "clever.com"],
-    ["Campus Student", "infinitecampus.org"],
     ["Google Classroom", "classroom.google.com"]
+    ["Google", "google.com"]
+    ["Play Prodigy", "math.prodigygame.com"]
+    ["Cool Math Games - Free Online Games for Learning and Fun", "coolmathgames.com"]
 ]
 const item = names[Math.floor(Math.random() * names.length)]
 
