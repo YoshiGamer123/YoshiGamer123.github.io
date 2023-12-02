@@ -1,5 +1,4 @@
 const names = [
-    ["Google Classroom", "classroom.google.com"]
     ["Google", "google.com"]
     ["Play Prodigy", "math.prodigygame.com"]
     ["Cool Math Games - Free Online Games for Learning and Fun", "coolmathgames.com"]
